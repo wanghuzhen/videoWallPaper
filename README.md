@@ -1,7 +1,7 @@
 # videoWallPaper
 vs code+Mingw(g++)编译的cpp版动态壁纸
 
-程序和讲解参照https://github.com/3150601355/VideoWallPaperDemo.git项目说明，在up提供的哔站视频里有详细讲解。
+程序和讲解参照https://github.com/3150601355/VideoWallPaperDemo.git 项目说明，在up提供的哔站视频里有详细讲解。
 
 使用宏定义解决可能会出现的类型转换问题。其他内容和源程序保持一致
 
